@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #d2691e;
+}
+
+.navbar-brand {
+    font-size: 24px;
+    color: #d2691e !important;
+}
+
+.nav-link {
+    font-size: 18px;
+    color: #d2691e !important;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.img-fluid {
+    max-height: 200px;
+    margin-bottom: 15px;
+}
+
+.form-control {
+    margin-bottom: 10px;
+}
+
+.btn-primary {
+    background-color: #d2691e;
+    border-color: #d2691e;
+}
